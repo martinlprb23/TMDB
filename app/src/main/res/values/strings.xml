@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="sign_in">Sign in</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="name">Name</string>
+    <string name="login_account">Login to your account</string>
+    <string name="no_account">Don´t have account?</string>
+    <string name="have_account">Do you have an account?</string>
+    <string name="rating">Rating</string>
+    <string name="trailer">Trailer</string>
+    <string name="retry">Retry</string>
+    <string name="unexpected_error">An unexpected error has occurred</string>
+    <string name="logout">Logout</string>
+    <string name="save_succes">Saved in favorites!</string>
+    <string name="remove_succes">Removed from favorites!</string>
+    <string name="accept">Accept</string>
+    <string name="log_in">Log in</string>
+    <string name="new_user">You are new?</string>
+    <string name="create_account">Create an account</string>
+    <string name="search_by">Search by title</string>
+    <string name="search">Search</string>
+    <string name="movies">Movies</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="register">Register</string>
+</resources>
